@@ -1,0 +1,42 @@
+.card {
+    margin: auto;
+    margin-top: 90px;
+    padding-bottom: 30px;
+    border: 2px solid whitesmoke;
+
+    
+
+}
+
+.cardtitle {
+    width: 260px;
+    height: 12%;
+    border-radius: 13px ;
+    margin-top: 10px;
+    text-align: left;
+    border: 2px solid blue;
+    background-color: white;
+}
+
+.add {
+    float: inline-end;
+    border-radius: 12px;
+    width: 70px;
+    height: 40px;
+    margin-top: 10px;
+    background-color: blue;
+    color: white;
+}
+
+.kon {
+    width: 100%;
+    height: 13%;
+    padding: 10 px;
+    padding-left: 10px;
+    background-color: #C5E1E5;
+    border: 2px solid whitesmoke;
+    font-style: normal;
+}
+body {
+    background-color: blue;
+}
