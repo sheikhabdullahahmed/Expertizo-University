@@ -1,0 +1,43 @@
+
+*{
+    margin: 5px;
+}
+
+.abt{
+    background-color: blue;
+    color: white;
+}
+
+.cs{
+    background-color: blue;
+    color: white;
+}
+
+.uid{
+    background-color: white;
+    color: blue;
+}
+
+.int{
+    color: white;
+       background-color: blue;
+}
+
+
+.spi{
+    color: white;
+    background-color: blue;
+}
+
+.nm{
+    color: blue;
+}
+
+.tr{
+    color: blue;
+}
+
+.sbm{
+    background-color: black;
+    color: white;
+}
