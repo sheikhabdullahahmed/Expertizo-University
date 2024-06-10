@@ -1,0 +1,57 @@
+*{
+    margin: auto;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color:darkgreen;
+}
+
+.h1{
+    color:wheat
+}
+
+.h2{
+    color: white;
+}
+
+.h3{
+    color: lightgreen;
+
+}
+.h4{
+    color: lightblue;
+}
+.main-div{
+    margin: 30px;
+
+}
+
+.div{
+    margin: 30px;
+    border-radius: 30px;
+    width: 130px;
+    height: 300%;
+    padding: 15px;
+}
+
+.num{
+    position:fixed;
+    width: ;
+}
+l {
+    justify-content: ;
+    order: 2;
+    justify-self: ;
+    flex-wrap: nowrap;
+    flex-wrap: wrap;
+    flex-wrap: wrap-reverse;
+    flex-wrap: ;
+    flex-direction: ;
+    flex-flow: ;
+    flex-wrap: ;
+    flex-direction: ;
+    align-content: ;
+    justify-content: ;
+    align-items: ;
+}
